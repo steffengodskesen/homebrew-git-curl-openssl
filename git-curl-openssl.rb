@@ -12,7 +12,7 @@ class GitCurlOpenssl < Formula
 
   resource "html" do
     url "https://www.kernel.org/pub/software/scm/git/git-htmldocs-2.31.1.tar.xz"
-    sha256 "9e17cb15dd75bbbd5dbb984eda674863c3b10ab72613cf8a39a00c3e11a8492a"
+    sha256 "ae94a6b128d1972a8b4041af9fc529ece96a9f2a13952ff843262ccb7bc1642c"
   end
 
   resource "man" do
