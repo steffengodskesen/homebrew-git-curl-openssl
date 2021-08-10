@@ -17,7 +17,7 @@ class GitCurlOpenssl < Formula
 
   resource "man" do
     url "https://www.kernel.org/pub/software/scm/git/git-manpages-2.31.1.tar.xz"
-    sha256 "9e17cb15dd75bbbd5dbb984eda674863c3b10ab72613cf8a39a00c3e11a8492a"
+    sha256 "5d0d443c57155da2f201584d4c8c5ad10a0a24ff3af3a7a77cdc8f56dddac702"
   end
 
   resource "Net::SMTP::SSL" do
